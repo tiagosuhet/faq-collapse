@@ -1,2 +1,2 @@
 # faq-collapse
-Faq collapse using html, css, and javascript.
+Faq-collapse using html, css, and javascript.
